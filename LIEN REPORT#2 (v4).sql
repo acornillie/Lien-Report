@@ -65,4 +65,4 @@ and oc.totaldue > 10000	--Should be parameter in final report
 and DATEDIFF (d, ate.shipDate, getdate()) > 90	--Should be parameter in final report
 order by oc.totalDue
 
-
+--Joseph Test
